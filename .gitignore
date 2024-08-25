@@ -1,1 +1,16 @@
-.venv
+# Virtual environment
+.venv/
+
+# Alembic files
+alembic/
+alembic.ini
+
+# Compiled Python files
+__pycache__/
+*.pyc
+
+# Environment configuration
+.env
+
+# VS Code settings
+.vscode/
